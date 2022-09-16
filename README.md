@@ -1,7 +1,8 @@
 # fast-image-level-vote
 
 code for paper：A high-resolution feature network image-level classification method for hyperspectral image， Acta Geodaetica et Cartographica Sinica (AGCS) 
- If the code is helpful to you, please cite the paper. Thanks!
+
+If the code is helpful to you, please cite the paper. Thanks!
 # Requirements
 os
 argparse
